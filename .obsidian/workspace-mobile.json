@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "995e71ee9406b52d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cef0c4f40f8d0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2d92ed5d0dc6f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Barber 01.09.23/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "060d23d059e2152e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "67339b83ba5649ff",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "08570daa9731476b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f366d16fe33d439c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8ad5368c7b144879",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "efa8a9c889af0945",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3476e83b50be91f0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Projects/Barber 01.09.23/README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c3c30de422363eba",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Projects/Barber 01.09.23/README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bb09376bd460e654",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Projects/Barber 01.09.23/README.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c2d92ed5d0dc6f43",
+  "lastOpenFiles": [
+    "Projects/Barber 01.09.23/README.md",
+    "🏔️ Mantel/IDP - 22.08.23/Standup.md",
+    "Minimalism/Must List.md",
+    "🏔️ Mantel/IDP - 22.08.23/PaymentProcessingComplete.png",
+    "Projects/E-Gommerce 21.08.23/Backend.md",
+    "**TEMPLATES**/Project/README.md",
+    "Projects/E-Gommerce 21.08.23/Overview.md",
+    "🏔️ Mantel/IDP - 22.08.23/Project Rundown - 17.08.23.md"
+  ]
+}

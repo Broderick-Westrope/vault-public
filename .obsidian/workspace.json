@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d4bccea2e0e82e66",
+        "id": "ded1a9c47c469cb8",
         "type": "tabs",
         "children": [
           {
-            "id": "93108b8d495529db",
+            "id": "bf552a0c1d1194fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -144,6 +138,20 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "11d288198c230dca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -162,6 +170,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93108b8d495529db",
-  "lastOpenFiles": []
+  "active": "95b8de482fcc4c93",
+  "lastOpenFiles": [
+    "Daily/2024-10-04.md",
+    "Daily/2024-10-01.md",
+    "Daily/2024-10-03.md",
+    "Daily/2024-10-13.md",
+    "Daily/2024-10-08.md",
+    "Daily",
+    "Tech/Interview Prep/golden-interview-questions.md",
+    "Tech/Interview Prep/DroneShield/Round 3 Prep.md",
+    "Tech/Interview Prep/DroneShield/Round 2 Prep.md",
+    "Tech/Interview Prep/DroneShield",
+    "Tech/Interview Prep/Zip - 24.03.14 - Software Engineer, Merchant Core/fake-take-home-assignment.md",
+    "Tech/Interview Prep/Zip - 24.03.14 - Software Engineer, Merchant Core/Job Description.md",
+    "Tech/Interview Prep/Zip - 24.03.14 - Software Engineer, Merchant Core/functional-interview-planning.md",
+    "Tech/Interview Prep/Zip - 24.03.14 - Software Engineer, Merchant Core/Initial Planning.md",
+    "Tech/Interview Prep/Zip - 24.03.14 - Software Engineer, Merchant Core",
+    "Tech/Interview Prep/Eucalyptus/Behavioural Interview (2) Prep.md",
+    "Tech/Interview Prep/Eucalyptus/Untitled.md",
+    "Tech/Interview Prep/Eucalyptus/Cover Letter.md",
+    "Tech/Interview Prep/Eucalyptus/Interview 1 Prep.md",
+    "Tech/Interview Prep/Eucalyptus/AI Notes.md",
+    "Tech/Interview Prep/Eucalyptus",
+    "Tech/Interview Prep/infotrack-cultural-interview.md",
+    "Tech/Interview Prep",
+    "Tech/Personal Projects/Barber 01.09.23/CleanShot 2023-10-05 at 08.45.03@2x.png",
+    "Tech/Personal Projects/Barber 01.09.23/README.md",
+    "Tech/Personal Projects/Barber 01.09.23/Planning.md",
+    "Tech/Personal Projects/Barber 01.09.23/CleanShot 2023-10-05 at 08.35.32@2x.png",
+    "Tech/Personal Projects/Barber 01.09.23",
+    "Tech/Personal Projects/NudiCrypt 21.11.2024/Initial Planning.md",
+    "Tech/Personal Projects/NudiCrypt 21.11.2024",
+    "Tech/Personal Projects/TeaTime 01.11.2024/Plan.md",
+    "Tech/Personal Projects/TeaTime 01.11.2024",
+    "Tech/Personal Projects/Tetrigo 08.08.2024/public vs internal packages.md",
+    "Tech/Personal Projects/Tetrigo 08.08.2024",
+    "Tech/Personal Projects/GitLab-CI 05.12.2024/Initial Planning.md",
+    "Tech/Personal Projects/GitLab-CI 05.12.2024/GitLab Glossary.md",
+    "Tech/Personal Projects/GitLab-CI 05.12.2024",
+    "Tech/Personal Projects/Eventurely 26.05.24/Regular Notes/29.05.24 - FE Routes.md"
+  ]
 }

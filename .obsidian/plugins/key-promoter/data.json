@@ -1,0 +1,26 @@
+{
+  "showUnassigned": true,
+  "showAssigned": true,
+  "threshold": 0,
+  "notificationTimeout": 5,
+  "template": "{{commandId}} - {{commandName}} - {{hotkey}}",
+  "descriptionOfActions": false,
+  "mouseStatistics": {
+    "workspace:undo-close-pane": 1,
+    "workspace:close": 1,
+    "workspace:close-window": 1,
+    "workspace:close-others": 1,
+    "workspace:close-tab-group": 1,
+    "workspace:close-others-tab-group": 1,
+    "insert-template": 2,
+    "app:go-back": 1,
+    "backlink:open": 1,
+    "backlink:open-backlinks": 1,
+    "backlink:toggle-backlinks-in-document": 1,
+    "obsidian-editor-shortcuts:goToPrevChar": 1,
+    "obsidian-editor-shortcuts:expandSelectionToBrackets": 1,
+    "obsidian-editor-shortcuts:expandSelectionToQuotes": 1,
+    "obsidian-editor-shortcuts:expandSelectionToQuotesOrBrackets": 1
+  },
+  "keyboardStatistics": {}
+}
