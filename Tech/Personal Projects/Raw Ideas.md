@@ -1,0 +1,2 @@
+- **NudiCrypt:** A terminal utility for encrypting and managing (encrypted) filesystems. MVP functionality will be very close to that of the [Cryptomator](https://cryptomator.org/) desktop application.
+	- Files are to be encrypted using AES-GCM-SIV wherein encryption is about 70% as performant as AES-GCM and decryption is just as performant. The bonus to using the "-SIV" variant is that it protects against nonce reuse vulnerabilities.
