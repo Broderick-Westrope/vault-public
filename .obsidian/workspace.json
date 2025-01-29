@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b3d100c3d7c2811",
+        "id": "e095d88fc397abf8",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2437653255bf78",
+            "id": "73e854df1022e7a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -175,16 +171,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95b8de482fcc4c93",
+  "active": "73e854df1022e7a7",
   "lastOpenFiles": [
+    "Evergreen/Learning Golang.md",
+    "Evergreen/README.md",
+    "Professional Development/README.md",
+    "Weekly Logs/2025/Week 05.md",
+    "Professional Development/Articles.md",
+    "Evergreen",
+    "README.md",
     "Weekly Logs/README.md",
     "Tech/2024.12.01 - Precise Profile Refinement.md",
     "Tech/Weekly Logs/2025/Week 05.md",
     "**TEMPLATES**/Weekly Log.md",
     "**TEMPLATES**",
-    "Professional Development/README.md",
-    "Professional Development/Articles.md",
-    "README.md",
     "Tech/Professional Development/Untitled",
     "Professional Development",
     "Tech/Weekly Log/Untitled",
@@ -210,10 +210,6 @@
     "Daily/2024-10-03.md",
     "Daily/2024-10-01.md",
     "Daily",
-    "Tech/Interview Prep/golden-interview-questions.md",
-    "Tech/Interview Prep/DroneShield/Round 3 Prep.md",
-    "Tech/Interview Prep/DroneShield/Round 2 Prep.md",
-    "Tech/Interview Prep/DroneShield",
-    "Tech/Interview Prep/Zip - 24.03.14 - Software Engineer, Merchant Core"
+    "Tech/Interview Prep/DroneShield"
   ]
 }
