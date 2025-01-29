@@ -7,4 +7,4 @@ These notes are organised by calendar week contain:
 - Questions that arose during the week
 - Goals for next week
 
-Please see my [[Tech/Professional Development/README|Professional Development Plan]] for more information.
+Please see my [[Professional Development/README|Professional Development Plan]] for more information.
